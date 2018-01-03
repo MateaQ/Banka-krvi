@@ -81,7 +81,7 @@
 			// pictureBox2
 			// 
 			this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-			this.pictureBox2.Location = new System.Drawing.Point(12, 12);
+			this.pictureBox2.Location = new System.Drawing.Point(14, 12);
 			this.pictureBox2.Name = "pictureBox2";
 			this.pictureBox2.Size = new System.Drawing.Size(104, 84);
 			this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -106,7 +106,7 @@
 			this.button2.BackColor = System.Drawing.Color.LightSalmon;
 			this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
 			this.button2.ForeColor = System.Drawing.Color.Maroon;
-			this.button2.Location = new System.Drawing.Point(429, 331);
+			this.button2.Location = new System.Drawing.Point(423, 331);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(103, 50);
 			this.button2.TabIndex = 6;
