@@ -33,5 +33,10 @@ namespace Banka_krvi
 			this.Hide();
 			f3.ShowDialog();
 		}
+
+		private void textBox1_TextChanged(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
