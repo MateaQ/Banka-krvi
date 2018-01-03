@@ -41,7 +41,7 @@
 			this.button1.BackColor = System.Drawing.Color.NavajoWhite;
 			this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
 			this.button1.ForeColor = System.Drawing.Color.Maroon;
-			this.button1.Location = new System.Drawing.Point(201, 94);
+			this.button1.Location = new System.Drawing.Point(197, 82);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(150, 53);
 			this.button1.TabIndex = 0;
